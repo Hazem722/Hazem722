@@ -3,6 +3,7 @@
 <img src="https://github.com/Hazem722/Hazem722/blob/9921f11fd909a489d503a177724410ef8385e913/text.gif" />
 </h1>
 
+<div>
 ## 👋 Hello there!
 I’m Hazem, a Front End Web Developer (Vanilla Js && React Js) from Tunisia 	
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -15,6 +16,7 @@ I’m Hazem, a Front End Web Developer (Vanilla Js && React Js) from Tunisia
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about anything, I'll be helpful as much as I can 
 - 📫 You can reach me by sending an email to <br> hazemb.abdallah@gmail.com 
+</div>
 
 <div>
 <img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Hazem722&show_icons=true&theme=radical" />
