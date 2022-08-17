@@ -5,6 +5,7 @@
 
 ## 👋 Hello there!
 I’m Hazem, a Front End Web Developer (Vanilla Js && React Js) from Tunisia 	
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - Ex Civil engineering technician
 - Got my Front-End certificate from Gomycode : [INTRODUCTION TO REACT.JS COURSE](https://learn.gomycode.co/credentials/43c73c14-eeef-4d29-b66b-8977256b05f1/GYAOARMHSYYSCALOCEDEEEONI-CN-TC-O/00004182#certificate) 
