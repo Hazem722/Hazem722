@@ -23,16 +23,18 @@ I’m Hazem, a Front End Web Developer (Vanilla Js && React Js) from Tunisia
 <img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem722&layout=compact" />
 </div>
 
-
+<div>
 I'm looking forward to having you as a connection, <br>Please feel free to follow me
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HazembAbdallah?label=Follow)](https://twitter.com/intent/follow?screen_name=HazembAbdallah)
 [![Linkedin: Hazem](https://img.shields.io/badge/-Hazem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hazembenabdallah/)](https://www.linkedin.com/in/hazembenabdallah/)
 ![GitHub followers](https://img.shields.io/github/followers/Hazem722?label=Follow&style=social)
+</div>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<div>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </h2>
+</div>
 
 ```javascript
 const Hazem = {
