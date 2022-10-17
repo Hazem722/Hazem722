@@ -8,10 +8,11 @@
 <div>
 <img  align='right'src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
-## I’m Hazem, a Front End Web Developer (Vanilla Js && React Js) from Tunisia 	
+## I’m Hazem, a Full Stack Developer from Tunisia 	
 
 
 - Ex Civil engineering technician
+- Link to My Full Stack Developer certificate from ALX-T in collaboration with UDACITY : [ALX-T Full Stack Developer](https://confirm.udacity.com/SQHXKKPN)
 - Got my Front-End certificate from Gomycode : [INTRODUCTION TO REACT.JS COURSE](https://learn.gomycode.co/credentials/43c73c14-eeef-4d29-b66b-8977256b05f1/GYAOARMHSYYSCALOCEDEEEONI-CN-TC-O/00004182#certificate) 
 - Other certifications : ***Udacity Nanodegree Graduation Certificate [Web Development Foundation](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/1b8c907b-9797-4bca-b61d-95378901cf51.pdf)
 -  👀 I’m interested in programming and learning new languages 
